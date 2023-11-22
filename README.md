@@ -1,3 +1,5 @@
 # git-test
-my first Github repo
+my first Goithub repo
+
+
 hello odin!
