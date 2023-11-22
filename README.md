@@ -1,2 +1,3 @@
 # git-test
-first-odin-git
+my first Github repo
+hello odin!
